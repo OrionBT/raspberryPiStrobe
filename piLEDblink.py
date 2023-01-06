@@ -24,5 +24,5 @@ while True:
     time.sleep(.1)
     GPIO.output(blueLed, False)
     #GPIO.output(redLed, GPIO.LOW)
-    time.sleep(1)
+    #time.sleep(1)
     
